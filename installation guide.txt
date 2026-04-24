@@ -16,7 +16,7 @@ Step-06 Now go to your browser and type: localhost
 
 Step-07 Go to phpmyadmin
 
-Step-08 Create a database named 'bbms'
+Step-08 Create a database named 'bloodchain'
 
 Step-09 Now go to created database and click on 'import' tab.
 
