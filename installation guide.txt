@@ -1,4 +1,4 @@
-!! Installation Guide !!
+! Installation Guide !
 
 --> Just follow these steps, if you have no idea how to run the project.
 
