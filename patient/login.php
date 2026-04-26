@@ -80,7 +80,7 @@ if(isset($_POST['login'])){
 <div class="container-fluid">
 <div class="row">
     <div class="col-md-12 bg-danger" id="footer">
-        &copy 2022 CSEtutorials.com
+        &copy 2026 CSEtutorials.com
     </div>
 </div>
 </div>
